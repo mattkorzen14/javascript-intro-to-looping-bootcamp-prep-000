@@ -10,6 +10,6 @@ function forLoop(array) {
       return array;
 }
 
-arr = new Array();
-arr2 = forLoop(arr);
-console.log(arr2);
+function whileLoop(n) {
+  
+}
